@@ -1,13 +1,12 @@
-<div align="center">
+# hello , I am Swetha Subramaniyam
 
-<!-- 🌟 Animated Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=✨%20Swetha%20S%20✨&fontSize=55&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI%20%26%20DSA%20Enthusiast%20💻&descAlignY=60&descAlign=50&fontColor=ffffff&animation=twinkling" alt="header" />
+<div align="center">
 
 <!-- 💬 Typing Animation -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F472B6&center=true&vCenter=true&width=700&lines=✨+Articulate+%26+Curious+Tech+Mind;💡+Critical+Thinker+%26+Problem+Solver;🚀+Building+Smart+Apps+That+Create+Impact;🌸+Always+Learning,+Growing,+and+Glowing!" alt="Typing SVG" />
 
 </div>
-<h3 align="center">a passionate **Artificial Intelligence And Data Science student** and Known for my articulation, critical thinking, and problem-solving mindset, I’m driven by an endless curiosity to explore how technology can create real impact.</h3>
+<h3 align="center">A passionate Artificial Intelligence And Data Science student and Known for my articulation, critical thinking, and problem-solving mindset, I’m driven by an endless curiosity to explore how technology can create real impact.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swethakit&label=Profile%20views&color=0e75b6&style=flat" alt="swethakit" /> </p>
 
