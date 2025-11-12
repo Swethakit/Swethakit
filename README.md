@@ -1,32 +1,87 @@
-# hello , I am Swetha Subramaniyam
+<!-- Banner: Dark + Neon (Code Queen) -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&height=220&color=0D0221&text=SWETHA%20SUBRAMANIYAM&fontSize=56&animation=twinkle&fontColor=A55EEA&textBg=false&desc=AI+%7C+DSA+%7C+Full-Stack+Dev+%7C+Goal+20%2B+LPA" alt="Swetha Banner" />
+</p>
+
+# hello, I am **Swetha Subramaniyam** 👋
 
 <div align="center">
 
 <!-- 💬 Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F472B6&center=true&vCenter=true&width=700&lines=✨+Articulate+%26+Curious+Tech+Mind;💡+Critical+Thinker+%26+Problem+Solver;🚀+Building+Smart+Apps+That+Create+Impact;🌸+Always+Learning,+Growing,+and+Glowing!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=A55EEA&center=true&vCenter=true&width=760&lines=✨+Articulate+%26+Curious+Tech+Mind;💡+Critical+Thinker+%26+Problem+Solver;🚀+Building+Smart+Apps+That+Create+Impact;🌸+Always+Learning,+Growing,+and+Glowing!" alt="Typing SVG" />
 
 </div>
-<h3 align="center">A passionate Artificial Intelligence And Data Science student and Known for my articulation, critical thinking, and problem-solving mindset, I’m driven by an endless curiosity to explore how technology can create real impact.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=swethakit&label=Profile%20views&color=0e75b6&style=flat" alt="swethakit" /> </p>
+### A passionate Artificial Intelligence & Data Science student known for articulation, critical thinking, and a problem-solving mindset. Driven by curiosity to build tech that creates real impact.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swethakit" alt="swethakit" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/swetha-subramaniyam-9238822bb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="swetha-subramaniyam-9238822bb" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/swetha_2006" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="swetha_2006" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/swetha_2006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="swetha_2006" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/swetha_2006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="swetha_2006" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/swetha_2006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="swetha_2006" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/swetha_2006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="swetha_2006" height="30" width="40" /></a>
+  <img src="https://komarev.com/ghpvc/?username=swethakit&label=Profile%20views&color=7dd3fc&style=flat" alt="profile views" />
+  &nbsp;
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swethakit&theme=dark" alt="trophies" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=swethakit&show_icons=true&locale=en&layout=compact" alt="swethakit" /></p>
+## 🔗 Connect with me
+<p align="left">
+  <a href="https://linkedin.com/in/swetha-subramaniyam-9238822bb" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" /></a>
+  <a href="https://www.codechef.com/users/swetha_2006" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="codechef" height="30" style="margin-left:8px;" /></a>
+  <a href="https://www.hackerrank.com/swetha_2006" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank" height="30" style="margin-left:8px;" /></a>
+  <a href="https://codeforces.com/profile/swetha_2006" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="codeforces" height="30" style="margin-left:8px;" /></a>
+  <a href="https://www.leetcode.com/swetha_2006" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" style="margin-left:8px;" /></a>
+  <a href="https://auth.geeksforgeeks.org/user/swetha_2006" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="gfg" height="30" style="margin-left:8px;" /></a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=swethakit&show_icons=true&locale=en" alt="swethakit" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swethakit&" alt="swethakit" /></p>
+## 🛠️ Languages & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,react,nodejs,flask,tf,pytorch,opencv,pandas,sklearn,mysql,git,html,css,bootstrap,figma,matlab" height="36" />
+</p>
+
+> (If you prefer the original individual SVG icons layout, I left that in a commented block you can swap back later.)
+
+---
+
+## 🧠 Currently
+- Focused on DSA + system design for placements (Goal: 20+ LPA)  
+- Building **Mock Interview Buddy AI** (Final Year Project) — full-stack + LLM integrations  
+- Exploring agentic & generative AI workflows
+
+---
+
+## 🏗️ Projects (table)
+| Project | Tech Used | Link |
+|---|---:|:---:|
+| Mock Interview Buddy AI (FYP) | React, Flask, OpenAI API, Firebase | [Repo](https://github.com/your-username/mock-interview-buddy) |
+| AI-Based Resume Scorer | Python, NLP, Scikit-learn, Flask | [Repo](https://github.com/your-username/resume-scorer) |
+| Smart Lighting System (IoT mini) | Flask, Bluetooth, Arduino | [Repo](https://github.com/your-username/smart-lighting) |
+*Replace the links above with your repo URLs. Add / remove rows as needed.*
+
+---
+
+## 📊 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=swethakit&show_icons=true&theme=radical" alt="swethakit stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swethakit&layout=compact&theme=radical" alt="top languages" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=swethakit&theme=monokai" alt="streak" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/swethakit/swethakit/output/github-snake.svg" alt="snake" />
+</p>
+
+---
+
+## 🧾 Automation (Snake animation)
+I included a GitHub Action workflow (below) that generates the snake animation into an `output` branch automatically.
+
+---
+
+## ✨ Signature
+<p align="center">
+  ⭐ *"shine bright like a diamond"* 💎
+</p>
