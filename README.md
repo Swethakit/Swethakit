@@ -1,9 +1,6 @@
-<!-- Banner: Dark + Neon (Code Queen) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&height=220&color=0D0221&text=SWETHA%20SUBRAMANIYAM&fontSize=56&animation=twinkle&fontColor=A55EEA&textBg=false&desc=AI+%7C+DSA+%7C+Full-Stack+Dev+%7C+Goal+20%2B+LPA" alt="Swetha Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=speech&height=300&color=gradient&text=hello,%20I%20am%20Swetha%20Subramaniyam&textBg=false&animation=blink&fontAlign=50&fontAlignY=42&fontSize=46" alt="Swetha Banner" />
 </p>
-
-# hello, I am **Swetha Subramaniyam** 👋
 
 <div align="center">
 
@@ -39,7 +36,7 @@
   <img src="https://skillicons.dev/icons?i=python,cpp,js,react,nodejs,flask,tf,pytorch,opencv,pandas,sklearn,mysql,git,html,css,bootstrap,figma,matlab" height="36" />
 </p>
 
-> (If you prefer the original individual SVG icons layout, I left that in a commented block you can swap back later.)
+> 
 
 ---
 
@@ -56,7 +53,6 @@
 | Mock Interview Buddy AI (FYP) | React, Flask, OpenAI API, Firebase | [Repo](https://github.com/your-username/mock-interview-buddy) |
 | AI-Based Resume Scorer | Python, NLP, Scikit-learn, Flask | [Repo](https://github.com/your-username/resume-scorer) |
 | Smart Lighting System (IoT mini) | Flask, Bluetooth, Arduino | [Repo](https://github.com/your-username/smart-lighting) |
-*Replace the links above with your repo URLs. Add / remove rows as needed.*
 
 ---
 
