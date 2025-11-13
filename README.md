@@ -76,11 +76,6 @@
 
 ---
 
-## 🧾 Automation (Snake animation)
-I included a GitHub Action workflow (below) that generates the snake animation into an `output` branch automatically.
-
----
-
 ## ✨ Signature
 <p align="center">
   ⭐ *"shine bright like a diamond"* 💎
