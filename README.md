@@ -1,12 +1,17 @@
 <div align="center">
- 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&width=1200&text=Swetha%20Subramaniyam%20&section=header&fontAlignY=35&fontSize=60&fontColor=ffffff&color=2D3748&animation=twinkling&stroke=4A5568&strokeWidth=1&font=JetBrains+Mono" alt="Header" />
-  
+
+![Header](./github-header-banner.png)
+
+<h1 style="color:#7B3FE4; font-size:60px; font-weight:900; text-shadow: 2px 2px 8px rgba(123,63,228,0.7);">
+Swetha Subramaniyam
+</h1>
+
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7B3FE4&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science+Student;Frontend+Developer+%7C+Problem+Solver;Building+Smart+and+User-Friendly+Applications;Learning%2C+Building%2C+Growing+Every+Day" alt="Typing SVG" />
 
-
-
 </div>
+
+
+
 
  
 
@@ -121,24 +126,33 @@ Sep 2024 · On-site
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=swethakit&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&icon_color=00D4FF&ring_color=00D4FF&border_color=00D4FF" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swethakit&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&border_color=00D4FF" alt="Top Languages" />
+  <!-- GitHub Stats -->
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=swethakit&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&ring_color=FFFFFF&border_color=FFFFFF" alt="GitHub Stats" />
+
+  <!-- Top Languages -->
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swethakit&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&border_color=FFFFFF" alt="Top Languages" />
 
 </div>
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=swethakit&theme=monokai" alt="streak" />
-</p>
-
-
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=swethakit&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FFFFFF&area=true&area_color=00D4FF&title_color=00D4FF" alt="Activity Graph" />
+  <!-- Activity Graph -->
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=swethakit&theme=react-dark&hide_border=true&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&area_color=FFFFFF99&title_color=FFFFFF" 
+    alt="Activity Graph" 
+  />
 
 </div>
 
-
----
+## Activity 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+            srcset="https://raw.githubusercontent.com/Dharsh2326/Dharsh2326/output/snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/Dharsh2326/Dharsh2326/output/snake-light.svg"
+         alt="snake animation" />
+  </picture>
+</p>
 
 
 ## Let's Connect  
