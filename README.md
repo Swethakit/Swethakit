@@ -2,7 +2,9 @@
  
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&width=1200&text=Swetha%20Subramaniyam%20&section=header&fontAlignY=35&fontSize=60&fontColor=ffffff&color=2D3748&animation=twinkling&stroke=4A5568&strokeWidth=1&font=JetBrains+Mono" alt="Header" />
   
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Teaching+Machines+to+Think;Data+Whisperer+%26+Code+Architect;Building+Intelligent+Systems;Where+Data+Meets+Creativity" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7B3FE4&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science+Student;Frontend+Developer+%7C+Problem+Solver;Building+Smart+and+User-Friendly+Applications;Learning%2C+Building%2C+Growing+Every+Day" alt="Typing SVG" />
+
+
 
 </div>
 
@@ -10,9 +12,9 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Ragulvl&color=00D4FF&style=for-the-badge&label=Profile+Views)
-![GitHub followers](https://img.shields.io/github/followers/Ragulvl?style=for-the-badge&logo=github&color=00D4FF&labelColor=000000)
-![GitHub User's stars](https://img.shields.io/github/stars/Ragulvl?style=for-the-badge&logo=github&color=00D4FF&labelColor=000000)
+![Profile Views](https://komarev.com/ghpvc/?username=Swethakit&color=00D4FF&style=for-the-badge&label=Profile+Views)
+![GitHub followers](https://img.shields.io/github/followers/Swethakit?style=for-the-badge&logo=github&color=00D4FF&labelColor=000000)
+![GitHub User's stars](https://img.shields.io/github/stars/Swethakit?style=for-the-badge&logo=github&color=00D4FF&labelColor=000000)
 
 </div>
       
@@ -75,33 +77,26 @@ Enjoys working on web applications, learning machine learning concepts, and expl
 ---
  
 
-## 🏗️ Projects  
+## Projects  
 
 | Project | Tech Used | Link |
 |---|---|:---:|
-| Aptitude Master – Aptitude Quiz Application | HTML, CSS, JavaScript | [Repo] |
-| Web Development Internship – LearnLogicify Technologies LLP | HTML, CSS, JavaScript, React | — |
-| HDR Image Generation Using Transformers | Python, Deep Learning, Transformers | — |
+| Aptitude Master – Aptitude Quiz Application | HTML, CSS, JavaScript |[View Project](https://github.com/Swethakit/Aptitude-Master)|
+| Web Development Internship – LearnLogicify Technologies LLP | HTML, CSS, JavaScript, React |[View Project](https://github.com/Swethakit/shine_bright_spa_website)|
+| HDR Image Generation Using Transformers | Python, Deep Learning, Transformers |[View Project](https://github.com/Swethakit/HDR-Image-Enhancer-)|
 
----
 
-## Achievements & Certifications
-
-### **Academic Excellence**
+### **Academic**
 - **B.Tech in AI & Data Science** - Kalaignar Karunanidhi Institute of Technology
-- **Class XII** - Blue Bird Matriculation Higher Secondary School
-
-### **Competition Achievements**
-- **1st Place** - CodeRelay Competition at Karpagam College of Engineering
 
 ### **Professional Certifications**
 | Certification | Issuer | Status |
 |---------------|--------|--------|
-| **AWS Solutions Architecture Job Simulation** | Amazon | ✅ Completed |
-| **Cybersecurity Specialist** | Cisco | ✅ Completed |
-| **Foundations of Data Science** | Google | ✅ Completed |
-| **Data Structures and Algorithms Using Java** | Infosys Springboard | ✅ Completed |
-| **Introduction to Artificial Intelligence** | IBM | ✅ Completed |
+| **AWS Solutions Architecture Job Simulation** | Amazon |[View Certificate](https://www.theforage.com/completion-certificates/pmnMSL4QiQ9JCgE3W/kkE9HyeNcw6rwCRGw_pmnMSL4QiQ9JCgE3W_693008c9877649b43378dcc5_1764757063753_completion_ce)|
+| **Cybersecurity Specialist** | Cisco |[View Certificate](https://drive.google.com/file/d/1X1RwbUGMG-h-HuOwqrW22FPAJ0qt_ylj/view?usp=drivesdk)|
+| **Foundations of Data Science** | Google |[View Certificate](https://www.coursera.org/account/accomplishments/records/YAJOY6HCIIF5)|
+| **Data Structures and Algorithms Using Java** | Infosys Springboard |[View Certificate](https://drive.google.com/file/d/18s2mmFkD7M0eLzsvR8YYH_a86QpIbLo_/view?usp=drivesdk)|
+| **Introduction to Artificial Intelligence** | IBM |[View Certificate](https://www.coursera.org/account/accomplishments/records/SXYDK5B8WVYA)|
 
 
 ---
@@ -110,24 +105,25 @@ Enjoys working on web applications, learning machine learning concepts, and expl
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ragulvl&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&icon_color=00D4FF&ring_color=00D4FF&border_color=00D4FF" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ragulvl&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&border_color=00D4FF" alt="Top Languages" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=swethakit&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&icon_color=00D4FF&ring_color=00D4FF&border_color=00D4FF" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swethakit&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&border_color=00D4FF" alt="Top Languages" />
 
 </div>
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=swethakit&theme=monokai" alt="streak" />
+</p>
+
+
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ragulvl&theme=dark&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=00D4FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D4FF&sideLabels=00D4FF&dates=FFFFFF" alt="GitHub Streak" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=swethakit&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FFFFFF&area=true&area_color=00D4FF&title_color=00D4FF" alt="Activity Graph" />
 
 </div>
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ragulvl&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FFFFFF&area=true&area_color=00D4FF&title_color=00D4FF" alt="Activity Graph" />
-
-</div>
 
 ---
+
 
 ## Connect with Me  
 <p align="left">
