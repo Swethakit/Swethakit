@@ -131,7 +131,7 @@ Sep 2024 · On-site
 
   <!-- Top Languages -->
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swethakit&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&border_color=FFFFFF" alt="Top Languages" />
-
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=swethakit&theme=monokai" alt="streak" /> </p>
 </div>
 
 <div align="center">
