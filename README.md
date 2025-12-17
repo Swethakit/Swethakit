@@ -29,8 +29,6 @@
   <a href="https://auth.geeksforgeeks.org/user/swetha_2006" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="gfg" height="30" style="margin-left:8px;" /></a>
 </p>
 
----
-
 ## 🛠️ Languages & Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,cpp,js,react,nodejs,flask,tf,pytorch,opencv,pandas,sklearn,mysql,git,html,css,bootstrap,figma,matlab" height="36" />
