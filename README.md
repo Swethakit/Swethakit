@@ -30,63 +30,58 @@ Enjoys working on web applications, learning machine learning concepts, and expl
 
 ### Programming Languages  
 <p align="left">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
 </p>  
 
 ### Frontend Development  
 <p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
 </p>  
 
 ### Backend & Database  
 <p align="left">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/API-Exploring%20New%20Tech-blueviolet?style=flat&logo=api&logoColor=white"/>
-
 </p>  
 
 ### AI & Data Science  
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Machine_Learning-FF6B6B?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Data_Science-FF6B6B?style=for-the-badge&logo=databricks&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RapidMiner-FF6B6B?style=for-the-badge&logo=rapidminer&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Machine_Learning-FF6B6B?style=flat&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Data_Science-FF6B6B?style=flat&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RapidMiner-FF6B6B?style=flat&logo=rapidminer&logoColor=white"/>
 </p>  
 
 ### Tools & Platforms  
 <p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"/>
 </p>    
 
 ---
 
-## Featured Projects  
+---
+ 
 
-- **Aptitude Master** – Frontend-Based Aptitude Quiz Application  
-  - Built an interactive aptitude quiz platform for practicing logical, quantitative, and verbal aptitude questions.  
-  - Features: Timed quizzes, score evaluation, responsive UI, and user-friendly design.
+## 🏗️ Projects  
 
-- **Web Development Internship** – LearnLogicify Technologies LLP  
-  - Gained hands-on experience in frontend and full-stack development through real-world projects.  
-  - Built applications including SPA website, To-Do app, and Piano website across the software development lifecycle.
-
-- **HDR Image Generation Using Transformers** – Deep Learning & Generative AI  
-  - Developed a transformer-based deep learning model for HDR image generation.  
-  - Implemented data preprocessing, model training, and evaluation to enhance image quality and dynamic range.
-
+| Project | Tech Used | Link |
+|---|---|:---:|
+| Aptitude Master – Aptitude Quiz Application | HTML, CSS, JavaScript | [Repo] |
+| Web Development Internship – LearnLogicify Technologies LLP | HTML, CSS, JavaScript, React | — |
+| HDR Image Generation Using Transformers | Python, Deep Learning, Transformers | — |
 
 ---
 
