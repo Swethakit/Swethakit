@@ -98,8 +98,24 @@ Enjoys working on web applications, learning machine learning concepts, and expl
 | **Data Structures and Algorithms Using Java** | Infosys Springboard |[View Certificate](https://drive.google.com/file/d/18s2mmFkD7M0eLzsvR8YYH_a86QpIbLo_/view?usp=drivesdk)|
 | **Introduction to Artificial Intelligence** | IBM |[View Certificate](https://www.coursera.org/account/accomplishments/records/SXYDK5B8WVYA)|
 
+## Experience  
 
----
+**-SocialMM** — *Generalist Intern*  
+Dec 2025 – Present · Remote  
+➡️ `Social Media Management` → `Content Creation` → `Branding`
+
+**-LearnLogicify Technologies LLP** — *Full Stack Development Intern*  
+Jun 2025 · On-site  
+➡️ `Frontend Development` → `UI Thinking` → `Presentation Skills`
+
+**-LITZ Tech** — *In-Plant Trainee*  
+Dec 2024 · On-site  
+➡️ `Python Programming` → `Industry Exposure` → `Communication`
+
+**-Inker Robotics** — *Industrial Visit*  
+Sep 2024 · On-site  
+➡️ `Robotics` → `RPA` → `Automation Workflows`
+
 
 ## GitHub Analytics
 
@@ -125,12 +141,12 @@ Enjoys working on web applications, learning machine learning concepts, and expl
 ---
 
 
-## Connect with Me  
+## Let's Connect  
 <p align="left">
-  <a href="https://github.com/Ragulvl"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/ragul-v-l-291143292/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:ragulkamelash@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="tel:+919626199577"><img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+  <a href="https://github.com/Swethakit"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/swetha-subramaniyam-9238822bb/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:swethasubramaniyam27@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="tel:+91 9629050499"><img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 </p>  
 
 --- 
