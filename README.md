@@ -127,26 +127,33 @@ Sep 2024 · On-site
 
 
 ## GitHub Analytics
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Swethakit&show_icons=true&theme=dark&hide_border=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swethakit&layout=compact&theme=dark&hide_border=true" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Swethakit&theme=monokai" />
-</p>
+  <!-- GitHub Stats -->
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=swethakit&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&ring_color=FFFFFF&border_color=FFFFFF" alt="GitHub Stats" />
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Swethakit&theme=react-dark" />
-</p>
+  <!-- Top Languages -->
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swethakit&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&border_color=FFFFFF" alt="Top Languages" />
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=swethakit&theme=monokai" alt="streak" /> </p>
+</div>
+
+<div align="center">
+
+  <!-- Activity Graph -->
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=swethakit&theme=react-dark&hide_border=true&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&area_color=FFFFFF99&title_color=FFFFFF" 
+    alt="Activity Graph" 
+  />
+
+</div>
 
 
 ## Activity 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"
-            srcset="https://raw.githubusercontent.com/Swethakit/Swethakit/output/snake-dark.svg">
-    <img src="https://raw.githubusercontent.com/Swethakit/Swethakit/output/snake-light.svg"
+            srcset="https://raw.githubusercontent.com/Dharsh2326/Dharsh2326/output/snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/Dharsh2326/Dharsh2326/output/snake-light.svg"
          alt="snake animation" />
   </picture>
 </p>
