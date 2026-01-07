@@ -102,7 +102,6 @@ Enjoys working on web applications, learning machine learning concepts, and expl
 ### **Professional Certifications**
 | Certification | Issuer | Status |
 |---------------|--------|--------|
-| **AWS Solutions Architecture Job Simulation** | Amazon |[View Certificate](https://www.theforage.com/completion-certificates/pmnMSL4QiQ9JCgE3W/kkE9HyeNcw6rwCRGw_pmnMSL4QiQ9JCgE3W_693008c9877649b43378dcc5_1764757063753_completion_ce)|
 | **Cybersecurity Specialist** | Cisco |[View Certificate](https://drive.google.com/file/d/1X1RwbUGMG-h-HuOwqrW22FPAJ0qt_ylj/view?usp=drivesdk)|
 | **Foundations of Data Science** | Google |[View Certificate](https://www.coursera.org/account/accomplishments/records/YAJOY6HCIIF5)|
 | **Data Structures and Algorithms Using Java** | Infosys Springboard |[View Certificate](https://drive.google.com/file/d/18s2mmFkD7M0eLzsvR8YYH_a86QpIbLo_/view?usp=drivesdk)|
