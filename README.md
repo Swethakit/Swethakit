@@ -83,13 +83,18 @@ Enjoys working on web applications, learning machine learning concepts, and expl
  
 
 ## Projects  
-
+### Full Stack Based Projects
 | Project | Tech Used | Link |
 |---|---|:---:|
-| Aptitude Master – Aptitude Quiz Application | HTML, CSS, JavaScript |[View Project](https://github.com/Swethakit/Aptitude-Master)|
-| Web Development Internship – LearnLogicify Technologies LLP | HTML, CSS, JavaScript, React |[View Project](https://github.com/Swethakit/shine_bright_spa_website)|
-| HDR Image Generation Using Transformers | Python, Deep Learning, Transformers |[View Project](https://github.com/Swethakit/HDR-Image-Enhancer-)|
+| Aptitude Master – Aptitude Quiz Application | React, CSS, JavaScript |[View Project](https://github.com/Swethakit/Aptitude-Master)|
+| SPA Website| React, CSS, JavaScript, |[View Project](https://github.com/Swethakit/shine_bright_spa_website)|
+| Portfolio Website | React , Javascript , CSS|[View Project](https://github.com/Swethakit/portfolio)|
 
+### AI Based Project
+| Project | Tech Used | Link |
+|---|---|:---:|
+| HDR Image Generation Using Transformers | Python, Deep Learning, Transformers |[View Project](https://github.com/Swethakit/HDR-Image-Enhancer-)|
+|AI Based SDE Knowledge Evaluator | Python, LLM, Streamlit |[View Project](https://github.com/Swethakit/SDE-knowledge-evaluator-AI)|
 
 ### **Academic**
 - **B.Tech in AI & Data Science** - Kalaignar Karunanidhi Institute of Technology
