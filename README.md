@@ -1,19 +1,12 @@
 <div align="center">
-
+ 
 ![Header](./github-header-banner.png)
-
+ 
 <h1 style="color:#7B3FE4; font-size:60px; font-weight:900; text-shadow: 2px 2px 8px rgba(123,63,228,0.7);">
 Swetha Subramaniyam
 </h1>
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7B3FE4&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science+Student;Frontend+Developer+%7C+Problem+Solver;Building+Smart+and+User-Friendly+Applications;Learning%2C+Building%2C+Growing+Every+Day" alt="Typing SVG" />
-
 </div>
-
-
-
-
- 
 
 <div align="center">
 
@@ -30,9 +23,6 @@ Enjoys working on web applications, learning machine learning concepts, and expl
 
 
 </div>  
-
----
-
 ## Technical Skills  
 
 ### Programming Languages  
