@@ -84,7 +84,7 @@ Enjoys working on web applications, learning machine learning concepts, and expl
 ### AI Based Project
 | Project | Tech Used | Link |
 |---|---|:---:|
-| Hand-Movement-Detection | Python,Open CV, Mediapipe |[View Project](https://github.com/Swethakit/hand-movement-detection)|
+| Hand-Movement-Detection | Python,Open CV, Mediapipe |[View Project](https://github.com/Swethakit/Hand-movement-Detection)|
 | HDR Image Generation Using Transformers | Python, Deep Learning, Transformers |[View Project](https://github.com/Swethakit/HDR-Image-Enhancer-)|
 |AI Based SDE Knowledge Evaluator | Python, LLM, Streamlit |[View Project](https://github.com/Swethakit/SDE-knowledge-evaluator-AI)|
 
