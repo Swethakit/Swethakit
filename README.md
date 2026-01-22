@@ -132,8 +132,8 @@ Sep 2024 · On-site
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"
-            srcset="https://raw.githubusercontent.com/Dharsh2326/Dharsh2326/output/snake-dark.svg">
-    <img src="https://raw.githubusercontent.com/Dharsh2326/Dharsh2326/output/snake-light.svg"
+            srcset="https://raw.githubusercontent.com/Swethakit/Swethakit/output/snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/Swethakit/Swethakit/output/snake-light.svg"
          alt="snake animation" />
   </picture>
 </p>
