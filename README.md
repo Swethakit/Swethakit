@@ -23,6 +23,7 @@ Enjoys working on web applications, learning machine learning concepts, and expl
 
 
 </div>  
+
 ## Technical Skills  
 
 ### Programming Languages  
