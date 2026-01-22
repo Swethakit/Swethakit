@@ -137,6 +137,7 @@ Sep 2024 · On-site
          alt="snake animation" />
   </picture>
 </p>
+![snake](https://raw.githubusercontent.com/Swethakit/Swethakit/gh-pages/snake.svg)
 
 
 ## Let's Connect  
